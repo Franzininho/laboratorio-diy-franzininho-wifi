@@ -1,6 +1,6 @@
 ## Laboratório DIY - Franzininho Wifi
 
-<img src="./img/top.png"/>
+![Gif da placa](./img/capa.gif)
 
 ## O que é este projeto?
 

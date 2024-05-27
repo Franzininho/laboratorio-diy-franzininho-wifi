@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R3,R7,R10,R5,R6,R8,R11,R1,R4,R9,R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";11;"150Ω";;;
+2;"Enable34,Enable51,EnableB3,EnableE2,Enable50,EnableE1,EnableL2,Enable30,EnableP0,Enable37,EnableM0,Enable33,EnableS1,Enable36,EnableB1,EnableL5,EnableE3,EnableS0,Enable38,EnableS2,Enable35,EnableL3,EnableB0,EnableE0,Enable31,EnableB2,EnableL4,EnableSCK0,Enable32,Enable1,EnableL6,Enable0,EnableSDA0,EnableL1,EnableL0";"PinHeader_1x02_P2.54mm_Vertical";35;"Conn_01x02";;;
+3;"D1";"LED_D5.0mm";1;"LED1";;;
+4;"SW1,SW4,SW2,SW3";"Switch";4;"SW_Push_Dual";;;
+5;"D2";"LED_D5.0mm";1;"LED2";;;
+6;"R13,R12";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";2;"10KΩ";;;
+7;"TH1";"PinHeader_2x01_P2.54mm_Vertical";1;"Thermistor_NTC";;;
+8;"U3";"FRANZININHO_WIFI_PINOUT";1;"FRANZININHO_WIFI_PINOUT";;;
+9;"LDR1";"R_LDR_5.1x4.3mm_P3.4mm_Vertical";1;"LDR07";;;
+10;"POT1";"Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles";1;"1KΩ";;;
+11;"D4";"LED_D5.0mm";1;"LED4";;;
+12;"I2C,Jumpers1,Jumpers2";"PinHeader_1x04_P2.54mm_Vertical";3;"Conn_01x04";;;
+13;"J2,J1";"PinHeader_1x20_P2.54mm_Vertical";2;"Conn_01x20";;;
+14;"M1";"PinHeader_1x03_P2.54mm_Vertical";1;"Motor_Servo";;;
+15;"Buzzer1";"Buzzer_12x9.5RM7.6";1;"Speaker";;;
+16;"LED5";"LED_D5.0mm-4_RGB";1;"LED_RGBA";;;
+17;"D3";"LED_D5.0mm";1;"LED3";;;
